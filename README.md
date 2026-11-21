@@ -1,5 +1,7 @@
 # Express Fashion
 
+GitHub repository: [client-ecommerce](https://github.com/dropdown-digital/client-ecommerce).
+
 Production foundation for a premium Bangladesh-based clothing e-commerce platform.
 
 ## Stack
